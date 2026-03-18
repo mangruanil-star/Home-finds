@@ -101,3 +101,15 @@ footer
     margin-top:5px;
     color:#ccc;
 }
+.more-decor a {
+    display: block;
+    text-align: center;
+    font-size: 36px;      
+    font-weight: bold;     
+    color: #000000;        
+    text-decoration: none; 
+    margin: 40px 0;        
+}
+
+.more-decor a:hover {
+    color: #FF4500;      }

@@ -64,8 +64,8 @@ nav a:hover
 
 .item img
 {
-    max-width:100%;
-    border-radius:5px;
+    max-width:80%;
+    border-radius:8px;
 }
 
 .item-description 
